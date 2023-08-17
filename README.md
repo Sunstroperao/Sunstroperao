@@ -1,4 +1,4 @@
-<center>### Hi! I'm Sunstropeao 👋</center>
+### Hi! I'm Sunstropeao 👋
 - 🔭 I’m a student in Shanghai Jiao Tong University(SJTU)
 - 🌱 I’m currently learning autonomous vehicles
 - 👯 I’m looking to collaborate on trajectory prediction of autonomous vehicles
